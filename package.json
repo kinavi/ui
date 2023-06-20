@@ -1,0 +1,19 @@
+{
+  "name": "@kinavi/ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinavi/ui.git"
+  },
+  "author": "kinavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kinavi/ui/issues"
+  },
+  "homepage": "https://github.com/kinavi/ui#readme"
+}
