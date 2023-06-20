@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kinavi/ui/issues"
   },
-  "homepage": "https://github.com/kinavi/ui#readme"
+  "homepage": "https://github.com/kinavi/ui#readme",
+  "publishConfig": {
+    "@kinavi:registry": "https://npm.pkg.github.com"
+  }
 }
